@@ -40,6 +40,6 @@
 
 # Logistics
 * **Means of Communcation**
-	* Our team would be communicating through a Discord server that we made specifically for the group project. That would be our main method of communication and the occasional in-person meeting.
+	* Our team would be communicating through a **Discord server that we made specifically for the group project**. That would be our main method of communication and the occasional in-person meeting.
 * **Meeting Date and Times**
 	* Every week - **Wednesdays @ 5:30 pm** and **Thursdays @ 4:40pm**
