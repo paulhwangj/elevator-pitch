@@ -9,13 +9,13 @@
 	* There will be a list of plants that exist on campus and the user is able to click any one of them to get information about the plant and where to find it on campus.
 * **GPS (Air-tag like) Feature**
 	* If a user wanted to visit a specific plant, they would be able to select one location of where it exists on campus and get directions to it.
-	* But as our group was thinking, we wanted it to be less like a map with the typical directions that you may expect *(like below)*
+	* But as our group was thinking, we wanted it to be less like a map with the typical directions that you may expect *(like below)*  
 	<img src="https://img.freepik.com/premium-vector/application-navigation-there-is-destination-arrive-destination-gps-map_403715-36.jpg" alt="gps-photo" width="400"/>  
-	and more like an Air-Tag-like UI *(like below)*  
+&nbsp;&nbsp;&nbsp;&nbsp;and more like an Air-Tag-like UI *(like below)*  
 	<img src="https://www.apple.com/newsroom/images/product/accessories/standard/Apple_iphone12-precision-finding_042021_inline.jpg.large.jpg" alt="air-tag-photo" width="300"/>  
-To recap, this application would have a GPS feature, filters for specified locations, the ability to learn about plants, the ability to set a route for a walk, and a search feature to locate a very specific type of plant. 
 * **Application still acts like a normal interactive map**
 	* Still functions like a normal interactive map in the case that students also want to find specific buildings.
+* To recap, this application would have a GPS feature, filters for specified locations, the ability to learn about plants, the ability to set a route for a walk, and a search feature to locate a very specific type of plant. 
 
 ---
 
