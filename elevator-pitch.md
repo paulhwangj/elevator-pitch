@@ -1,3 +1,5 @@
+# This is for the [GitHub Repo](https://github.com/paulhwangj/elevator-pitch/edit/main/elevator-pitch.md)
+
 # Project #1: Interactive Map of UWO (with Plants)
 ## Motivation
 &nbsp;&nbsp;&nbsp;&nbsp;The University of Oshkosh used to have an interactive map that people could view which showed every tree on campus and its name (yes, trees have names). The interactive map was removed and we would like to bring it back as it would be helpful for biology and ecology majors. It would also list the different plants on campus and where to find them.
