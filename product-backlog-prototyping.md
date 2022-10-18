@@ -1,4 +1,4 @@
-# Product Backlog and Prototype - MuClock, Music Clock, uClock?
+# Product Backlog and Prototype - MuClock
 ## Team #4: Paul, Brady, Zach, Qadar
 
 # Product Description
@@ -6,19 +6,47 @@ This app will be a musical clock.The main screen will display a clock face which
 
 # User Stories
  
-M – I have a habit of being late for class. I want to create a playlist which ends when I need to leave for class. This is because I get stressed by waiting for an alarm go off. 
+XL – As a Spotify user who likes to listen to fast music while leaving for work in the morning, but not as soon as I wake up. I would like to generate a playlist which starts out being relaxing and then gets more intense the closer I am to leaving for work, so I will be able to sense how soon work is just by the feeling of the song. [ZLV]
 
  
 
-XL – I am a Spotify user who likes to listen to fast music while leaving for work in the morning, but not as soon as I wake up. I would like to generate a playlist which starts out being relaxing and then gets more intense the closer I am to leaving for work. I will be able to sense how soon work is just by the feeling of the song. 
+L – As a person that enjoys having an exact part of a song play when New Year's hits, I want to be able to play a song and have a specific part of the song play right when midnight hits so that I can ensure that the moment is perfect. [ZLV]  
 
  
 
-L – I am planning a New Year’s party and I want my favorite part of my favorite song to play at exactly midnight. I don’t want to manually figure out when to start playing the song, so it lines up. This app will help me ensure the moment is perfect. 
+L – As a person who is not a fan of default backgrounds, I want to be able to change the themes/style of the app, so that the app feels more personable to me. [BB]
 
  
 
-L – I am setting a timer to signal the end of my workout. I want the playlist to end with my favorite song. This will motivate me to finish my workout strong.  
+M – As a person who has a habit of being late for class, I want to create a playlist which ends when I need to leave for class so that I don’t get stressed like I do when waiting for an alarm to go off. [ZLV] 
+
+ 
+
+M – As a person who enjoys music that I’m familiar with, I want to be able to choose a specific playlist that the app will randomly choose from so that I don’t have to listen to music I don’t know. [ZLV] 
+
+ 
+
+M – As a person who enjoys music of a specific genre, I want to be able to filter what genre the songs that the app chooses from is so that I can listen to my favorite music. [PH] 
+
+ 
+
+M – As a person who enjoys music from specific artists, I want to be able to set a preference of what artists that the playlist can choose from so that I can listen to my favorite artists. [PH]
+
+ 
+
+M – As a person that likes to workout with music, I want my playlist to be the length of my workout and end with my favorite song so that I ensure that I work out for a guaranteed amount of time and end my workout song. [QI] 
+
+ 
+
+M – As a person who likes to follow a schedule, I want to be to able set an alarm that will play a song of my choice so that I can wake up on time to get ready in the morning with my favorite song. [PH] 
+
+ 
+
+M – As a person who likes to listen to music that is hard to find on streaming services, I want to be able to listen to the music downloaded on, so that I can listen to music that I like, but can not find. [BB] 
+
+ 
+
+S – As a person who isn’t very good with technology, I want an easy to use interface, so that I can navigate the application with ease. [BB] 
 
 # Storyboards
 ![storyboard image](https://i.imgur.com/LxmdYyk.jpg)
