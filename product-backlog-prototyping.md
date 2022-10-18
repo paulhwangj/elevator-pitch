@@ -1,4 +1,4 @@
-# Product Backlog and Prototype - MuClock
+# Product Backlog and Prototype - Music Clock: MuClock, uClock?
 ## Team #4: Paul, Brady, Zach, Qadar
 
 # Product Description
